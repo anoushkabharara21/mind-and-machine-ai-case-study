@@ -1,4 +1,4 @@
-## Mind & Machine AI Website
+# Mind & Machine AI Website
 
 ## Overview
 
@@ -6,7 +6,7 @@ Mind & Machine AI is a website I designed and developed to establish a professio
 
 This case study documents my design process, product thinking, and the decisions made throughout the project.
 
-
+---
 
 ## The Problem
 
@@ -24,7 +24,7 @@ The challenge was to create a modern, intuitive experience that made it easy for
 - Ensure a responsive experience across devices
 - Translate high-fidelity designs into a functional website
 
-
+---
 
 ## My Role
 
