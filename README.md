@@ -1,68 +1,80 @@
-# Mind & Machine AI Website
+# Mind & Machine AI
 
-## Overview
+Designed and developed the digital experience for **Mind & Machine AI**, taking the project from concept through high-fidelity design and implementation.
 
-Mind & Machine AI is a website I designed and developed to establish a professional digital presence for an AI-focused organization. The project involved planning the user experience, designing high-fidelity interfaces in Figma, and implementing the website using WordPress, Elementor, and GoDaddy.
-
-This case study documents my design process, product thinking, and the decisions made throughout the project.
+This project involved product planning, user experience design, interactive prototyping in Figma, and development using WordPress, Elementor, and GoDaddy.
 
 ---
 
-## The Problem
+# Challenge
 
-The organization needed a website that could clearly communicate its mission, highlight upcoming events and resources, and encourage community engagement.
+Mind & Machine AI needed a website that could establish a professional online presence while making it easy for visitors to understand the organization's mission, explore resources, discover events, and engage with the community.
 
-The challenge was to create a modern, intuitive experience that made it easy for visitors to explore content while maintaining a clean and professional design.
-
----
-
-## Objectives
-
-- Design a modern and professional website
-- Create a clear information architecture
-- Improve navigation and discoverability
-- Ensure a responsive experience across devices
-- Translate high-fidelity designs into a functional website
+The primary challenge was designing an experience that balanced clear navigation, modern aesthetics, and accessibility while remaining easy to maintain.
 
 ---
 
-## My Role
+# My Approach
 
-I independently managed the project from concept to implementation.
+Rather than beginning directly with development, I first focused on understanding the information users would need and how they would navigate the website.
 
-Responsibilities included:
+The project followed an iterative design process:
+
+- Defined website goals and user needs
+- Organized the information architecture
+- Designed high-fidelity interfaces in Figma
+- Built interactive prototypes
+- Implemented the designs using WordPress and Elementor
+- Published the final website through GoDaddy
+
+---
+
+# My Role
+
+I independently led the project from planning through deployment.
+
+**Responsibilities**
 
 - Product Planning
 - Information Architecture
 - User Experience (UX) Design
 - User Interface (UI) Design
-- High-Fidelity Prototyping in Figma
-- Website Development using WordPress and Elementor
-- Deployment through GoDaddy
+- High-Fidelity Prototyping (Figma)
+- WordPress Development
+- Elementor Implementation
+- Deployment & Configuration
 
 ---
 
-## Design Process
+# Design Process
 
-### 1. Understanding the Requirements
+## Understanding the Problem
 
-I began by identifying the primary goals of the website and organizing the information users would need to access. This helped define the site's structure before any visual design work began.
+Before creating any screens, I identified the primary goals of the website and organized the information visitors would need to access.
 
-### 2. Information Architecture
+---
 
-The website was organized into clear sections that would allow visitors to quickly navigate between resources, events, blogs, and opportunities to get involved.
+## Information Architecture
 
-### 3. Interface Design
+I structured the website to help users quickly navigate between events, blogs, organizational information, and community engagement opportunities.
 
-Using Figma, I designed high-fidelity interfaces focused on simplicity, readability, and accessibility while maintaining a modern visual style.
+---
 
-### 4. Prototype
+## High-Fidelity Design
 
-After completing the designs, I created interactive prototypes to validate the user flow before development.
+Using Figma, I designed interfaces that emphasized visual hierarchy, readability, consistency, and responsive layouts.
 
-### 5. Development
+---
 
-The approved designs were implemented using WordPress, Elementor, and GoDaddy, translating the prototype into a fully functional website.
+## Prototype
+
+Interactive prototypes were created to validate user flows before beginning implementation.
+
+---
+
+## Development
+
+After finalizing the designs, I recreated the interfaces using WordPress and Elementor before deploying the website through GoDaddy.
 
 ---
 
@@ -72,23 +84,23 @@ The approved designs were implemented using WordPress, Elementor, and GoDaddy, t
 
 ![Homepage](images/Home%20Page.png)
 
-The homepage introduces the organization, communicates its mission, and directs users toward key actions through a clean visual hierarchy.
+The homepage introduces the organization, establishes credibility, and guides visitors toward the website's primary sections using a clear visual hierarchy and prominent calls to action.
 
 ---
 
-## Events Page
+## Events
 
 ![Events](images/Events%20Page.png)
 
-The Events page provides visitors with an organized view of upcoming activities while making event discovery straightforward and accessible.
+The Events page presents upcoming activities in a structured format, making it easier for visitors to discover opportunities to participate.
 
 ---
 
-## Blogs Page
+## Blogs
 
 ![Blogs](images/Blogs%20Page.png)
 
-The Blogs page was designed to improve content discoverability while encouraging users to explore educational resources.
+The Blogs page organizes educational content while maintaining a clean reading experience and improving content discoverability.
 
 ---
 
@@ -96,11 +108,11 @@ The Blogs page was designed to improve content discoverability while encouraging
 
 ![Get Involved](images/Get%20Involved%20Page.png)
 
-The Get Involved page highlights opportunities for community participation and provides clear calls to action for prospective members.
+The Get Involved page encourages community participation by presenting engagement opportunities through clear calls to action.
 
 ---
 
-# Tools Used
+# Tools
 
 - Figma
 - WordPress
@@ -109,31 +121,20 @@ The Get Involved page highlights opportunities for community participation and p
 
 ---
 
-# Key Takeaways
+# Reflection
 
-This project strengthened my understanding of how product planning and design influence the overall user experience.
+This project strengthened my understanding of how product planning, UX design, and implementation work together throughout the product development lifecycle.
 
-Some of my biggest takeaways included:
-
-- Planning information architecture before designing interfaces reduces implementation complexity.
-- High-fidelity prototypes make development more efficient by minimizing ambiguity.
-- Consistency in layouts, typography, and navigation creates a more intuitive experience.
-- Building the website after prototyping reinforced the importance of validating design decisions before implementation.
+One of the biggest lessons from this project was the importance of designing before developing. Creating high-fidelity prototypes reduced implementation ambiguity and made development significantly more efficient.
 
 ---
 
 # Future Improvements
 
-If I were to continue iterating on this project, I would focus on:
+If I continued iterating on this project, I would focus on:
 
-- Improving mobile responsiveness
-- Enhancing accessibility to align with WCAG guidelines
-- Optimizing page load performance
 - Conducting usability testing with real users
-- Measuring user engagement through analytics to guide future design decisions
-
----
-
-## Reflection
-
-This project was my first opportunity to take a product from concept through design and implementation. It reinforced the importance of balancing user needs, visual design, and technical constraints throughout the product development process.
+- Improving accessibility based on WCAG guidelines
+- Optimizing page performance
+- Refining the mobile experience
+- Using analytics to inform future design decisions
