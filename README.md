@@ -4,7 +4,6 @@ Designed and developed the digital experience for **Mind & Machine AI**, taking 
 
 This project involved product planning, user experience design, interactive prototyping in Figma, and development using WordPress, Elementor, and GoDaddy.
 
----
 
 # Challenge
 
@@ -12,7 +11,6 @@ Mind & Machine AI needed a website that could establish a professional online pr
 
 The primary challenge was designing an experience that balanced clear navigation, modern aesthetics, and accessibility while remaining easy to maintain.
 
----
 
 # My Approach
 
@@ -27,7 +25,6 @@ The project followed an iterative design process:
 - Implemented the designs using WordPress and Elementor
 - Published the final website through GoDaddy
 
----
 
 # My Role
 
@@ -44,39 +41,27 @@ I independently led the project from planning through deployment.
 - Elementor Implementation
 - Deployment & Configuration
 
----
-
 # Design Process
 
 ## Understanding the Problem
 
 Before creating any screens, I identified the primary goals of the website and organized the information visitors would need to access.
 
----
-
 ## Information Architecture
 
 I structured the website to help users quickly navigate between events, blogs, organizational information, and community engagement opportunities.
-
----
 
 ## High-Fidelity Design
 
 Using Figma, I designed interfaces that emphasized visual hierarchy, readability, consistency, and responsive layouts.
 
----
-
 ## Prototype
 
 Interactive prototypes were created to validate user flows before beginning implementation.
 
----
-
 ## Development
 
 After finalizing the designs, I recreated the interfaces using WordPress and Elementor before deploying the website through GoDaddy.
-
----
 
 # Final Designs
 
@@ -86,15 +71,11 @@ After finalizing the designs, I recreated the interfaces using WordPress and Ele
 
 The homepage introduces the organization, establishes credibility, and guides visitors toward the website's primary sections using a clear visual hierarchy and prominent calls to action.
 
----
-
 ## Events
 
 ![Events](images/Events%20Page.png)
 
 The Events page presents upcoming activities in a structured format, making it easier for visitors to discover opportunities to participate.
-
----
 
 ## Blogs
 
@@ -102,15 +83,11 @@ The Events page presents upcoming activities in a structured format, making it e
 
 The Blogs page organizes educational content while maintaining a clean reading experience and improving content discoverability.
 
----
-
 ## Get Involved
 
 ![Get Involved](images/Get%20Involved%20Page.png)
 
 The Get Involved page encourages community participation by presenting engagement opportunities through clear calls to action.
-
----
 
 # Tools
 
@@ -119,15 +96,11 @@ The Get Involved page encourages community participation by presenting engagemen
 - Elementor
 - GoDaddy
 
----
-
 # Reflection
 
 This project strengthened my understanding of how product planning, UX design, and implementation work together throughout the product development lifecycle.
 
 One of the biggest lessons from this project was the importance of designing before developing. Creating high-fidelity prototypes reduced implementation ambiguity and made development significantly more efficient.
-
----
 
 # Future Improvements
 
